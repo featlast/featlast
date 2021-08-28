@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**featlast/featlast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Greeting
+## _My Name Is: Jose Omar Herrera Peña_
 
-Here are some ideas to get you started:
+[![Build Status](https://img.icons8.com/color/96/000000/javascript--v1.png)](https://developer.mozilla.org/es/docs/Web/JavaScript) [![Build Status](https://img.icons8.com/color/2x/nodejs.png)](https://nodejs.org/es/)  [![Build Status](https://img.icons8.com/color/2x/html-5.png)](https://www.w3.org/html/logo/) 
+[![Build Status](https://img.icons8.com/color/96/000000/bootstrap.png)](https://www.w3.org/html/logo/) [![Build Status](https://img.icons8.com/color/96/000000/react-native.png)](https://www.w3.org/html/logo/) [![Build Status](https://img.icons8.com/color/96/000000/css3.png)](https://www.w3.org/html/logo/) 
+[![Build Status](https://img.icons8.com/color/96/000000/mongodb.png)](https://www.w3.org/html/logo/) [![Build Status](https://img.icons8.com/color/96/000000/graphql.png)](https://www.w3.org/html/logo/) [![Build Status](https://img.icons8.com/color/96/000000/firebase.png)](https://www.w3.org/html/logo/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Enthusiast for programming, now starting in the world of new
+##### technologies such as Javascript, Node, React, Mongo, etc.
+
+- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Node.
+- 🌱 I’m currently learning React, React Native.
