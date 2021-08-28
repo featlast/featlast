@@ -13,3 +13,4 @@
 - 🌱 I’m currently learning Javascript.
 - 🌱 I’m currently learning Node.
 - 🌱 I’m currently learning React, React Native.
+- 🎧📚🚩
