@@ -10,9 +10,9 @@
 
 
 ##### Enthusiast for programming, now starting in the world of new
-##### technologies such as Javascript, Node, React, Mongo, etc.
+##### technologies such as Javascript, Node, React, TailWindCss, Sass, etc.
 
 - 🌱 I’m currently learning Javascript.
 - 🌱 I’m currently learning Node.
 - 🌱 I’m currently learning React, React Native.
-- 🎧📚🚩
+- 🎧 Android student with kotlin and jetpack compose📚🚩
